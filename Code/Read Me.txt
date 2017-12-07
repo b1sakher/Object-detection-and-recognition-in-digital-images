@@ -1,0 +1,8 @@
+*le dossier : Apprentissage
+contient l'implémentaion en matlab de l'apprentissage "un contre tous" en utilisant la lib LIBSVM.
+fichiers : train.m et predict.m contiennent la partie importante du code.
+
+*Le dossier : Chebyshev:
+contient l'implémentation en C# de l'application permettant de calculer le descripteur d'une image, 
+et de construire la base de donnée 
+Fichier : My EMGU Program/Form1.cs contient la partie importante du code.
